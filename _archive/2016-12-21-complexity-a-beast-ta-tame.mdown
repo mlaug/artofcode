@@ -1,0 +1,9 @@
+---
+title: Complexity, a beast to tame
+author: mlaug
+layout: post
+tags:
+  - complexity
+  - architecture
+---
+
